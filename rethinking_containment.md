@@ -69,7 +69,55 @@ logics of containment mentioned above that erase violent histories of
 colonial dispossession. By refusing a linear conception of time and
 space, Soldier thus invokes space as a node, remembering and
 incorporating the violence of dispossession into the poem instead of
-moving past it and leaving it behind.
+moving past it and leaving it behind. The reader must rotate the poem in
+order for the four sentences to be legible, but in forcing the reader to
+accept the four inward-facing sentences, Soldier contains and detains
+the reader inside the walls of text. The North-oriented line reads as
+follows:
+
+"This is how you see me the space in which to place me"
+
+Here the verb form of "place" is used, perhaps referencing forced
+containment and suggesting that the "me" of the poem is an indigenous
+subject and the "you" is a member of the colonizing society since the
+speaker has passively been placed. Thus, the colonizer is indicted of
+containing the indigenous subject, while simultaneously *being*
+contained in a reversal of roles. Locked in the tangible box of the
+poem, the colonial gaze is reversed. The colonial gaze is far from one
+of neutral observation: I am reminded of Sarah (Saartjie) Baartman, the
+South African Khoikhoi woman who was put on exhibition in 1810 London
+for her large buttocks where "men and women of Britain's upper crust
+gawked at, prodded, and squeezed these so-called human freaks" (Elkins).
+The gaze upon Baartman was "a symbol of the alienation and degradations
+of colonization... the expropriation of female labor and the sexual and
+economic exploitation of black women by men," in English professor
+Rachel Holmes's words (Elkins). The speaker in "Three", by containing
+their colonizer within the poem, also puts them up for display, forcing
+them to reckon with the legacy and ongoing effects of their colonial
+gaze. The containment of the colonizer within the poem also bears an
+uncanny resemblance to the opening of one of Terrance Hayes's poems
+entitled "American Sonnet for my Past and Future Assassin:" "I lock you
+in an American sonnet that is part prison, / Part panic closet, a little
+room in a house set aflame" (Hayes). Both poets remember a past (and
+future) violence and solidify their agency and subjectivity by reversing
+its direction. Hayes achieves this through a tone that one might use to
+cast a spell, while
+
+the speaker in "Three" does it through form
+
+legibility
+
+what makes "Three" distinct? it does so through its form, through
+invocation of legibility
+
+then talk about this resistance w.r.t Rasmussen
+
+RASUMUSSEN INDIGENOUS LITERACIES -- relate the gaze reversal and also
+the literacy, deconstructing divisions of literacy/illiteracy
+
+indignant? tone
+
+this is how you see me? The space in which to place me?
 
 to talk about lines: use directions instead of sequence/order, but then
 talk about how we as the reader are positioned INSIDE the poem rather
@@ -94,8 +142,14 @@ WORDS FORM BOUNDARIES -- are traditional boundaries silent? (e.g. what
 can we say about this particular boundary, in relation to the thin lines
 on Google Maps?)
 
+reversal of types of containment: boarding school thru didactic tone,
+reservation through the panoptical thing Goeman mentions, prison
+through: *de*taining the reader
+
 Works to cite:
 
 Goeman
 
 Soldier
+
+Elkins <https://www.nytimes.com/2007/01/14/books/review/Elkins.t.html>
