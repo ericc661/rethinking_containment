@@ -99,44 +99,49 @@ uncanny resemblance to the opening of one of Terrance Hayes's poems
 entitled "American Sonnet for my Past and Future Assassin:" "I lock you
 in an American sonnet that is part prison, / Part panic closet, a little
 room in a house set aflame" (Hayes). Both poets remember a past (and
-future) violence and solidify their agency and subjectivity by reversing
-its direction. Hayes achieves this through a tone that one might use to
-cast a spell, while
+future) containment and solidify their agency and subjectivity by
+reversing its direction. Hayes achieves this through a tone that one
+might use to cast a spell (at once descriptive and imperative), while
+Soldier achieves this through a physical enactment of containment by
+manipulating the poem's form.
 
-the speaker in "Three" does it through form
+To access the content of the North-oriented line, we must first accept
+the poem's complete lack of punctuation. Punctuation serves to divide,
+to demarcate, and to signal relations between words, so it is not
+surprising that it is omitted in a poem about containment. Perhaps
+punctuation in this context is too limiting as it flattens out the
+multidimensional meanings of a sequence of words into a single
+interpretation, prescribing one way of reading a sentence. Regardless,
+in this line, there must be some sort of division between "me" and "the
+space", indicating that the speaker is somehow reduced to the space in
+which they have been placed. This line relates to Goeman's issues with
+the status quo conception of land: if land collapses into merely
+ownership and possession, what becomes of those contained *in* the land?
+Are they merely static parts of the landscape? If land is defined by the
+people who possess it, is it not the case that only those who own land
+can be considered people? We need to look no further than slavery and
+alien land laws "\[prohibiting\] land ownership by residents who were
+ineligible \[for\] citizenship" whose aim was "clearly the
+disenfranchisement of non-white immigrants" in order to confirm this
+(Grant). Through the "first" line of "Three," we thus understand that
+the degradation of the concept of land into possessed property provides
+ground for equating "human" with "land-owning," an equation that both
+enables and justifies the dehumanization of those forcibly dispossessed
+of their land. Perhaps the indigenous speaker places a semi-colon in the
+middle of this line, conveying a matter-of-fact recognition of the
+colonizer's logic: "This is how you see me; the space in which to place
+me". But due to the lack of punctuation, we can simultaneously hear the
+speaker's indignant tone as they interrogate their colonizer, who they
+have contained within the poem and subjected to their gaze: "This is how
+you see me? The space in which to place me?"
 
-legibility
-
-what makes "Three" distinct? it does so through its form, through
-invocation of legibility
-
-then talk about this resistance w.r.t Rasmussen
-
-RASUMUSSEN INDIGENOUS LITERACIES -- relate the gaze reversal and also
-the literacy, deconstructing divisions of literacy/illiteracy
-
-indignant? tone
-
-this is how you see me? The space in which to place me?
-
-to talk about lines: use directions instead of sequence/order, but then
-talk about how we as the reader are positioned INSIDE the poem rather
-than above/apart from it traditionally
-
-talk about positionality of the reader? as white male and being
-contained BY the poem,
+multitude of voices that reflect the insanity of being contained
 
 Three: multidimensionality -\> breaks out of a square on paper, -\>
 bring this up in the space in the East facing line
 
 three forms of physical containment, three forms of containment -\> talk
 about marginalization at some point
-
-define land by its ownership -- the vice versa of this is the "first"
-line of the poem
-
-syntax of first sentence, "this is how you see me" selects for/attunes
-to the second part
 
 WORDS FORM BOUNDARIES -- are traditional boundaries silent? (e.g. what
 can we say about this particular boundary, in relation to the thin lines
@@ -146,6 +151,10 @@ reversal of types of containment: boarding school thru didactic tone,
 reservation through the panoptical thing Goeman mentions, prison
 through: *de*taining the reader
 
+still mention rasumssen when we talk about the boarding school -- the
+words being borders, displaying literacy to the locked-in colonial
+subject
+
 Works to cite:
 
 Goeman
@@ -153,3 +162,5 @@ Goeman
 Soldier
 
 Elkins <https://www.nytimes.com/2007/01/14/books/review/Elkins.t.html>
+
+Grant <http://depts.washington.edu/civilr/alien_land_laws.htm>
