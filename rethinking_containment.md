@@ -131,21 +131,55 @@ of their land. Perhaps the indigenous speaker places a semi-colon in the
 middle of this line, conveying a matter-of-fact recognition of the
 colonizer's logic: "This is how you see me; the space in which to place
 me". But due to the lack of punctuation, we can simultaneously hear the
-speaker's indignant tone as they interrogate their colonizer, who they
-have contained within the poem and subjected to their gaze: "This is how
-you see me? The space in which to place me?"
+speaker's indignant tone as they interrogate their colonizer, whom they
+have contained within the poem, subjected to their gaze, and forced to
+be on the receiving end of their own dehumanizing logic: "This is how
+you see me? The space in which to place me?" The lack of punctuation
+therefore allows for a multitude of tones at once, echoing within the
+enclosed space of the poem.
 
-multitude of voices that reflect the insanity of being contained
+If in the North-oriented line, the space is conflated with the speaker,
+it is incorporated within the speaker in the East-oriented line:
+
+"The space in me you see is this place"
+
+The "space in me you see" suggests a certain emptiness, and one visible
+to the colonizer. But if the speaker has indeed contained the colonizer
+within the poem, it is as if the colonizer has been transported to the
+speaker's interior. Incorporating the "space" from the previous line,
+the speaker thus subsumes and further entraps the colonizer.
+Interestingly, performing this entrapment in turn frees the speaker:
+before the speaker was located within the space, but now the space is
+inside the speaker. However, what is "this place"? In the North-oriented
+line, "place" was used in its verb form, so here the use of "place" as a
+noun causes a new place to materialize, which perhaps points back to the
+space incorporated within the speaker. If we turn again to the question
+of punctuation, perhaps the abundant whitespace following "see" suggests
+we place a comma after it, which might be paired with another comma as
+follows: "The space in me, you see, is this place."
+
+Talk about how this has a didactic tone -\> then talk about boarding
+schools and the reversal of that role
+
+Move onto third line and talk about panoptical seeing, thus
+incorporating the reservation & prison parts
+
+Then the fourth and how that points towards empathy, then get into
+counterargs
+
+East line's space is a site for a counterarg where the speaker looks for
+escape -- mention this when we get there
 
 Three: multidimensionality -\> breaks out of a square on paper, -\>
 bring this up in the space in the East facing line
 
 three forms of physical containment, three forms of containment -\> talk
-about marginalization at some point
+about marginalization at some point. Maybe in the conclusion
 
 WORDS FORM BOUNDARIES -- are traditional boundaries silent? (e.g. what
 can we say about this particular boundary, in relation to the thin lines
-on Google Maps?)
+on Google Maps?). Also bring this up later on? The land speaking in big
+brain couterarg?
 
 reversal of types of containment: boarding school thru didactic tone,
 reservation through the panoptical thing Goeman mentions, prison
@@ -154,6 +188,11 @@ through: *de*taining the reader
 still mention rasumssen when we talk about the boarding school -- the
 words being borders, displaying literacy to the locked-in colonial
 subject
+
+counterarg 1: poem addressed to self
+
+counterarg 2 big brain: poem is spoken by the land, rejecting "the dead,
+fixed, undialectical"
 
 Works to cite:
 
