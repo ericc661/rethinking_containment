@@ -150,19 +150,67 @@ speaker's interior. Incorporating the "space" from the previous line,
 the speaker thus subsumes and further entraps the colonizer.
 Interestingly, performing this entrapment in turn frees the speaker:
 before the speaker was located within the space, but now the space is
-inside the speaker. However, what is "this place"? In the North-oriented
-line, "place" was used in its verb form, so here the use of "place" as a
-noun causes a new place to materialize, which perhaps points back to the
-space incorporated within the speaker. If we turn again to the question
-of punctuation, perhaps the abundant whitespace following "see" suggests
-we place a comma after it, which might be paired with another comma as
-follows: "The space in me, you see, is this place."
+inside the speaker. If we turn again to the question of punctuation,
+perhaps the abundant whitespace following "see" suggests we place a
+comma after it, which might be paired with another comma as follows:
+"The space in me, you see, is this place." This creates a didactic tone,
+which invokes the classroom and the relation between instructor and
+student. But the classroom was a site of indigenous containment:
+"Boarding schools were part of the colonial making of place and an
+alienation of the body from land as a life blood...They were deeply
+concerned with disciplining bodies, distancing indigenous people from
+land, and destroying the cultural ways that nurtured relationship to
+land and their communities" (Goeman 81). The boarding school served as
+mode of containment which was not just enclosed but also removed and
+displaced. By assuming a didactic tone, the speaker assumes the role of
+teacher in the boarding school, disorienting the colonizer from familiar
+places in addition to containing them.
 
-Talk about how this has a didactic tone -\> then talk about boarding
-schools and the reversal of that role
+The South-facing line continues the reversal of containment, yet this
+time the prison and the reservation are invoked:
 
-Move onto third line and talk about panoptical seeing, thus
-incorporating the reservation & prison parts
+"To see this space see how you place me in you"
+
+Throughout the poem, "place" and "space" appear in every line, as well
+as "see." Yet here, "see" appears twice, suggesting that multiple pairs
+of eyes are watching. Goeman writes that "colonial constructions of the
+reservation pictured the reservation system as a panoptic space from
+which to watch the restless Native, ration resources, and discipline
+bodies" (Goeman 82). Goeman's choice of describing the reservation as
+panoptic is no mistake given indigenous people are disproportionately
+incarcerated, so the echoing "see" in this line suggests not just a
+containment but a *de*tainment of the colonizer within a
+reservation/prison. The resources rationed by the speaker are freedom
+and even literacy, given the enclosed space also invokes the boarding
+school. Another interesting feature of the line is the whitespace which
+immediately follows "this space." The physical space in the line
+suggests the speaker is demonstrating the space or pointing to it
+(perhaps in the manner of a teacher). This draws our attention to the
+space that was also in the East-oriented line: if the lines in the poem
+are boundaries, then these spaces could be potential escapes. But the
+space shrinks from the East-oriented to the South-oriented line,
+suggesting that the opportunity for escape is closing. The
+South-oriented line thus provides a chance at freedom for the colonizer,
+but in order "To see this space" (that is, the possibility of escape),
+the colonizer must "see how you place me in you". To "see how you place
+me in you" is precisely to acknowledge the historical containment of
+indigenous peoples. Since land as possession and ownership conflates
+"human" with "land-owning", "you" metonymically associates the colonizer
+with their land, so this sentence is about the speaker being placed in
+own land. Further, to "place me in you" is to place "me" away from "me";
+that is, to remove, to displace, and to marginalize just as in the case
+of the boarding school.
+
+However, it is imprecise to say that the colonizer is offered escape
+from this experiment of containment in exchange for acknowledgement of
+past wrongdoings. Rather, they are only tempted with the sight of it:
+"To see this space" is not "to pass through" this space. Indeed, when we
+reach the West-facing line, we see that the space has vanished:
+
+"This is how to place you in the space in which to see"
+
+Westward being the frontier, representing something about conquering --
+they want to look west, to conquer, but instead they must empathize
 
 Then the fourth and how that points towards empathy, then get into
 counterargs
@@ -180,10 +228,6 @@ WORDS FORM BOUNDARIES -- are traditional boundaries silent? (e.g. what
 can we say about this particular boundary, in relation to the thin lines
 on Google Maps?). Also bring this up later on? The land speaking in big
 brain couterarg?
-
-reversal of types of containment: boarding school thru didactic tone,
-reservation through the panoptical thing Goeman mentions, prison
-through: *de*taining the reader
 
 still mention rasumssen when we talk about the boarding school -- the
 words being borders, displaying literacy to the locked-in colonial
