@@ -209,36 +209,77 @@ reach the West-facing line, we see that the space has vanished:
 
 "This is how to place you in the space in which to see"
 
-Westward being the frontier, representing something about conquering --
-they want to look west, to conquer, but instead they must empathize
+"This" points back to the acknowledgement of past containment in the
+South-oriented line ("see how you place me in you"). The speaker makes
+it clear that this acknowledgement is the precondition for the
+West-oriented line, and what this acknowledgement achieves is sight.
+This sight is likely empathy, as the "space in which to place me" has
+transformed into the "space in which to see". The speaker thus provides
+a model for a reversal of containment in order to achieve empathy and
+understanding -- the reversal is in service of this empathy, rather than
+solely for revenge. Notice that this empathy takes place in the
+West-oriented line, which is significant because the West is associated
+with the frontier and conquering ostensibly unoccupied land. This line
+thus halts further colonial expansion as it demands that the violence of
+containment be acknowledged and experienced. The poem does not end in
+simplistic harmony; in fact, it does not end at all. Due to its cyclical
+nature, this reversal of containment is played over repeatedly,
+inscribing the space with words and treating it as a node rather than a
+line in which the past fades away and becomes unimportant.
 
-Then the fourth and how that points towards empathy, then get into
-counterargs
+However, the indigenous subject enacting a reversal of containment on
+the colonizer is not the only way to read this poem. The poem requests
+we entertain multiple readings: the lack of punctuation creates
+ambiguity, but also the title itself, "Three", conveys a certain
+multiplicity. Perhaps "Three" also invokes the three-dimensional, which
+contrasts with the one-dimensional line (land as a linear time
+construct) and the two-dimensional, flattened conception of land as pure
+possession or ownership. To accept the true three-dimensionality of
+land, we must seek alternate ways to read the poem.
 
-East line's space is a site for a counterarg where the speaker looks for
-escape -- mention this when we get there
+Perhaps the speaker's poem is addressed to the self, and the poem then
+becomes about experiencing and escaping containment. The text on the
+borders, after all, does face inward. The containment of the poem then
+becomes an echoing, reflective space, in which the speaker deals with
+the damage of containment and of viewing land as property. Goeman writes
+that "former principal chief of the Cherokee Nation, Wilma Mankiller,
+\[spoke\] to devastating Indian policy that led to the fragmentation of
+her people: 'What happened to us at the turn of the century with the
+loss of land, when our land was divided out in individual allotments,
+had a profound irreversible effect on our people...When we stopped
+viewing land ownership in common and viewing ourselves in relation to
+owning the land in common, in profoundly altered our sense of community
+and our social structure'" (Goeman 78-79). What is crucial about
+Mankiller's statement is that the effects are "irreversible", that the
+conception of land as property has a lasting legacy. The North-oriented
+line of the poem, "This is how you see me the space in which to place
+me", then portrays the speaker as they look in the mirror and addresses
+the "you", the voice in them that carries this degraded conception of
+land. In this reading of the poem, the speaker tries to differentiate
+the "you" (the colonial voice) from the "me" (the true self), in an
+attempt to liberate the "me". The cyclic nature of the poem suggests
+that it is an ongoing process, although not necessarily one that is
+endless: the spaces in the East- and South-oriented lines provide room
+for escape.
 
-Three: multidimensionality -\> breaks out of a square on paper, -\>
-bring this up in the space in the East facing line
+If land is a dialectical, storied site, then it can speak too. In the
+conception of land as property, land is an object to be possessed, dead
+and silent. But in "Three", the boundaries are words, and so the land
+speaks. This reading illuminates the circular, echoing structure
+enhanced by the rhyming of "place" and "space": to attempt to contain
+land, to attempt to place it within itself, is futile. The land itself
+takes issue with its allotment and division into geometric regions, so
+"The space in me you see is this place" becomes a frustrated response to
+this futile endeavor. The whitespace becomes an exasperated pause, as
+the land tries to convey that space-differentiation cannot cause a place
+to materialize, since it already exists. Through the multidimensional
+readings of this poem, then, we hear a multitude of resistive voices
+working to reclaim their conception of land. The indigenous subject
+reverses containment onto the colonizer while attempting to move past
+damaging conceptions of land, while the land bears witness and creates
+its own resistance.
 
-three forms of physical containment, three forms of containment -\> talk
-about marginalization at some point. Maybe in the conclusion
-
-WORDS FORM BOUNDARIES -- are traditional boundaries silent? (e.g. what
-can we say about this particular boundary, in relation to the thin lines
-on Google Maps?). Also bring this up later on? The land speaking in big
-brain couterarg?
-
-still mention rasumssen when we talk about the boarding school -- the
-words being borders, displaying literacy to the locked-in colonial
-subject
-
-counterarg 1: poem addressed to self
-
-counterarg 2 big brain: poem is spoken by the land, rejecting "the dead,
-fixed, undialectical"
-
-Works to cite:
+Works Cited:
 
 Goeman
 
