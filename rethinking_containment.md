@@ -5,6 +5,8 @@ Professor Schmidt
 
 11/4/2019
 
+Rethinking Containment
+
 Layli Long Soldier's "Three" challenges what it means to manipulate
 form. "Three" consists of four sentences oriented at right angles to
 each other, forming a square and thus rejecting an easily identifiable
@@ -17,7 +19,7 @@ us to rotate the page and crane our necks in order to read it.
 
 Thus the poem stretches form to its boundaries and seems to be in
 constant cyclical motion as each sentence endlessly flows into the next,
-closely resembling but varying each other in such a way as to make it
+closely resembling but varying the last in such a way as to make it
 unclear what the "original" sentence is. But in each sentence appear the
 words "place" and "space", invoking the literal and figurative
 containment, enclosure, and marginalization of indigenous peoples in a
@@ -79,7 +81,7 @@ follows:
 
 Here the verb form of "place" is used, perhaps referencing forced
 containment and suggesting that the "me" of the poem is an indigenous
-subject and the "you" is a member of the colonizing society since the
+subject and the "you" is a member of the colonizing society, since the
 speaker has passively been placed. Thus, the colonizer is indicted of
 containing the indigenous subject, while simultaneously *being*
 contained in a reversal of roles. Locked in the tangible box of the
@@ -162,9 +164,9 @@ concerned with disciplining bodies, distancing indigenous people from
 land, and destroying the cultural ways that nurtured relationship to
 land and their communities" (Goeman 81). The boarding school served as
 mode of containment which was not just enclosed but also removed and
-displaced. By assuming a didactic tone, the speaker assumes the role of
-teacher in the boarding school, disorienting the colonizer from familiar
-places in addition to containing them.
+displaced. By assuming a didactic tone, the speaker also assumes the
+role of teacher in the boarding school, disorienting the colonizer from
+places familiar to them in addition to containing them.
 
 The South-facing line continues the reversal of containment, yet this
 time the prison and the reservation are invoked:
@@ -180,26 +182,27 @@ bodies" (Goeman 82). Goeman's choice of describing the reservation as
 panoptic is no mistake given indigenous people are disproportionately
 incarcerated, so the echoing "see" in this line suggests not just a
 containment but a *de*tainment of the colonizer within a
-reservation/prison. The resources rationed by the speaker are freedom
-and even literacy, given the enclosed space also invokes the boarding
-school. Another interesting feature of the line is the whitespace which
-immediately follows "this space." The physical space in the line
-suggests the speaker is demonstrating the space or pointing to it
-(perhaps in the manner of a teacher). This draws our attention to the
-space that was also in the East-oriented line: if the lines in the poem
-are boundaries, then these spaces could be potential escapes. But the
-space shrinks from the East-oriented to the South-oriented line,
-suggesting that the opportunity for escape is closing. The
-South-oriented line thus provides a chance at freedom for the colonizer,
-but in order "To see this space" (that is, the possibility of escape),
-the colonizer must "see how you place me in you". To "see how you place
-me in you" is precisely to acknowledge the historical containment of
-indigenous peoples. Since land as possession and ownership conflates
-"human" with "land-owning", "you" metonymically associates the colonizer
-with their land, so this sentence is about the speaker being placed in
-own land. Further, to "place me in you" is to place "me" away from "me";
-that is, to remove, to displace, and to marginalize just as in the case
-of the boarding school.
+reservation/prison. The resources rationed by the speaker are freedom,
+privacy (the panoptical gaze), and even literacy, given the enclosed
+space also invokes the boarding school. Another interesting feature of
+the line is the whitespace which immediately follows "this space." The
+physical space in the line suggests the speaker is demonstrating the
+space or pointing to it (perhaps in the manner of a teacher). This draws
+our attention to the space that was also in the East-oriented line: if
+the lines in the poem are boundaries, then these spaces could be
+potential escapes. But the space shrinks from the East-oriented to the
+South-oriented line, suggesting that the opportunity for escape is
+closing. The South-oriented line thus provides a chance at freedom for
+the colonizer, but in order "To see this space" (that is, the
+possibility of escape), the colonizer must "see how you place me in
+you". To "see how you place me in you" is precisely to acknowledge the
+historical containment of indigenous peoples. Since land as possession
+and ownership conflates "human" with "land-owning", "you" metonymically
+associates the colonizer with their land, so this sentence is about the
+speaker being placed in containment as well as being assimilated.
+Further, to "place me in you" is to place "me" away from "me"; that is,
+to remove, to displace, and to marginalize just as in the case of the
+boarding school.
 
 However, it is imprecise to say that the colonizer is offered escape
 from this experiment of containment in exchange for acknowledgement of
@@ -276,15 +279,25 @@ to materialize, since it already exists. Through the multidimensional
 readings of this poem, then, we hear a multitude of resistive voices
 working to reclaim their conception of land. The indigenous subject
 reverses containment onto the colonizer while attempting to move past
-damaging conceptions of land, while the land bears witness and creates
-its own resistance.
+damaging conceptions of land through self-reflection, while the land
+bears witness and creates its own resistance.
 
 Works Cited:
 
-Goeman
+Elkins, Caroline. "African Queen: The Real Life of the Hottentot Venus
+By Rachel Holmes -- Books -- Review." *The New York Times*,
+<https://www.nytimes.com/2007/01/14/books/review/Elkins.t.html>.
+Accessed 2 Nov. 2019.
 
-Soldier
+Goeman, Mishuana. "Land as Life: Unsettling the Logics of Containment."
+*Native Studies Keywords*, edited by Stephanie Nohelani Teves et al.,
+University of Arizona Press, Tucson, 2015, pp. 71--89. *JSTOR*,
+[www.jstor.org/stable/j.ctt183gxzb.9](http://www.jstor.org/stable/j.ctt183gxzb.9).
 
-Elkins <https://www.nytimes.com/2007/01/14/books/review/Elkins.t.html>
+Grant, Nicole. "White Supremacy and the Alien Land Laws of Washington
+State." *The Seattle Civil Rights & Labor History Project -- University
+of Washington*,
+<http://depts.washington.edu/civilr/alien_land_laws.htm>. Accessed 2
+Nov. 2019.
 
-Grant <http://depts.washington.edu/civilr/alien_land_laws.htm>
+Soldier, Layli Long. "Three." *Whereas.* Graywolf Press, 2017, pp. 8
